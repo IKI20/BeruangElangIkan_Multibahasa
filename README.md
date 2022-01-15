@@ -1,9 +1,6 @@
 ## BeruangElang & Ikan | v 2
+Beruang Elang & Ikan ini dalah project Semester 3 yang dimana project ini menggunakan multi bahasa,untuk bahsa yang saya gunakan di project ini hanya 2 bahasa yaitu Indonesia & Inggris
 
-Contoh aplikasi android sederhana dengan 3 activity yang mendemonstrasikan:
-* Cara mengirim informasi berupa object dari satu activity ke activity lainnya menggunakan serializable melalui extra pada Intent,
-* Cara menggunakan listview
-
-![BeruangElang & Ikan](https://user-images.githubusercontent.com/95567512/145045579-a63502c0-f72b-47ab-bd4b-317d0e98f70b.mp4)
-
+![Tampilan](indonesia.gif)
+![Tampilan](inggris.gif)
 
