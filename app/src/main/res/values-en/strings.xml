@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bear Eagle &amp; Fish</string>
+    //Layout
+    <string name="pilih_gambar">(Select image to open gallery)</string>
+    <string name="daftar_ras_judul">Animal Race List</string>
+    <string name="go_back">Return</string>
+    <string name="beruang">Bear</string>
+    <string name="elang">Eagle</string>
+    <string name="ikan">Fish</string>
+    <string name="beruang_list_title">Bear Race List</string>
+    <string name="elang_list_title">Eagle Race List</string>
+    <string name="ikan_list_title">Fish Race List</string>
+
+    //Data Beruang
+    <string name="berkacamata_nama">Glasses</string>
+    <string name="berkacamata_asal">South America</string>
+    <string name="berkacamata_deskripsi">This spectacled bear, Andean bear, or spectacled bear comes from the dense forest area of ​​the Andes Mountains</string>
+    <string name="hitam_nama">Black</string>
+    <string name="hitam_asal">America</string>
+    <string name="hitam_deskripsi">The American black bear lives from North America to Alaska. Despite the name black bear, actually their coat color is quite varied. Besides black, there are also brown ones</string>
+    <string name="beruangSloth_nama">Sloth Bear</string>
+    <string name="beruangSloth_asal">India</string>
+    <string name="beruangSloth_deskripsi">an arboreal, nocturnal and insectivorous bear species originating from the Indian subcontinent</string>
+    <string name="madu_nama">Honey</string>
+    <string name="madu_asal">Bengkulu province</string>
+    <string name="madu_deskripsi">The sun bear or Sun Bear or Helarctos malayanus is the smallest type of bear among the seven types of bears</string>
+    <string name="coklat_nama">Chocolate</string>
+    <string name="coklat_asal">North America</string>
+    <string name="coklat_deskripsi">Brown bears are often called grizzly bears by residents of North America. They are also omnivores, their diet includes plants, fish and small mammals</string>
+    <string name="kutub_nama">Pole</string>
+    <string name="kutub_asal">More precisely at the north pole</string>
+    <string name="kutub_deskripsi">As the name implies, their habitat is of course at the poles, precisely at the North Pole. They are carnivores, and their main prey is seals</string>
+
+    //Data Elang
+    <string name="pithecophagajefferyi_nama">Pithecophaga jefferyi</string>
+    <string name="pithecophagajefferyi_asal">Philippines</string>
+    <string name="pithecophagajefferyi_deskripsi">The Philippine eagle is a monkey eater and lives in the forest and is the largest eagle in terms of body size</string>
+    <string name="elanuscaeruleus_nama">Elanuscaeruleus</string>
+    <string name="elanuscaeruleus_asal">Asia, Africa, Spain, Portugal, Europe, Western Asia</string>
+    <string name="elanuscaeruleus_deskripsi">The Rat Eagle is a major species in open plains and semi-desert areas such as sub-Saharan Africa and some tropical areas of Asia. However, its distribution is also growing in Southern Europe and Western Asia</string>
+    <string name="avicedajerdoni_nama">Aviceda jerdoni</string>
+    <string name="avicedajerdoni_asal">southeast Asia</string>
+    <string name="avicedajerdoni_deskripsi">is a medium-sized eagle with a thin black crest with a white tip which is usually erect. It is commonly found in Southeast Asia</string>
+    <string name="bondol_nama">Bondol</string>
+    <string name="bondol_asal">India, Southeast Asia and Australia</string>
+    <string name="bondol_deskripsi">Medium size (45 cm), white and brown in color. Adult: head, neck and chest white; the wings, back, tail and belly are light brown, contrasting with the black primary feathers</string>
+    <string name="elangJawa_nama">Javanese Eagle</string>
+    <string name="elangJawa_asal">Indonesia</string>
+    <string name="elangJawa_deskripsi">The Javan eagle is an endemic species that is only found on the island of Java</string>
+    <string name="haliaeetusleucogaster_nama">Haliaeetus leucogaster</string>
+    <string name="haliaeetusleucogaster_asal">India, Southeast Asia, the Philippines, Australia and in Indonesia</string>
+    <string name="haliaeetusleucogaster_deskripsi">The sea eagle is one of the largest and heaviest species of eagle that can fly long distances. Its strong beak and claws make this predatory bird very feared in the ocean</string>
+
+    //Data Ikan
+    <string name="betta_nama">Betta</string>
+    <string name="betta_asal">Indonesia, Thailand, Malaysia and Vietnam</string>
+    <string name="betta_deskripsi">This one fish is easy to find. Especially during this pandemic, many are keeping betta fish</string>
+    <string name="engraulidae_nama">Engraulidae</string>
+    <string name="engraulidae_asal">Atlantic, Indian and Pacific oceans</string>
+    <string name="engraulidae_deskripsi">Anchovy is a group of small marine fish belonging to the Engraulidae tribe. This name includes a variety of fish with a silver-green or bluish body color</string>
+    <string name="thunnusalbacares_nama">Thunnus albacares</string>
+    <string name="thunnusalbacares_asal">indian ocean, arafuru sea, banda sea, sulawesi sea, spooky sea, flores sea</string>
+    <string name="thunnusalbacares_deskripsi">Yellowfin tuna or yellowfin tuna (Thunnus albacares) is a type of large pelagic fish that wanders in tropical and oceanic oceans around the world.</string>
+    <string name="superordoSelachimorpha_nama">Superorder Selachimorpha</string>
+    <string name="superordoSelachimorpha_asal">The whole world</string>
+    <string name="superordoSelachimorpha_deskripsi">Sharks are a group (superorder Selachimorpha) of fish with a complete cartilaginous skeleton and a slender body. They breathe using five gills (sometimes six or seven, depending on the species) on the side of, or starting slightly behind, their head.</string>
+    <string name="causpisillum_atau_Balistidae_nama">BauspisillumBalistidae</string>
+    <string name="causpisillum_atau_Balistidae_asal">Indonesia</string>
+    <string name="causpisillum_atau_Balistidae_deskripsi">Living in shallow waters of coral reefs, the length of the fish can reach 50 cm. Marketed as ornamental fish with very expensive prices. Trigger distribution areas in coral waters, shallow waters, especially around Banyuwangi and Nusa Penida (Bali).</string>
+    <string name="exocoetidae_nama">Exocoetidae</string>
+    <string name="exocoetidae_asal">Atlantic, Pacific and Indian oceans</string>
+    <string name="exocoetidae_deskripsi">Flying fish are a family of marine fish consisting of about 50 species grouped in 7 to 9 genera</string>
+</resources>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".ProfilkuActivity">
+
+    <LinearLayout
+        android:background="@drawable/baru"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_marginTop="30dp"
+                android:padding="20dp"
+                android:layout_gravity="center"
+                android:background="@drawable/profile"
+                android:layout_width="110dp"
+                android:layout_height="90dp"/>
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#FFF"
+                    android:layout_marginLeft="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textSize="15dp"
+                    android:text="Nama                      :  DIKI HARDI"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#FFF"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Nim                         :  200502070"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#FFF"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Frodi                       :  TEKHNIK IMFORMATIKA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#FFF"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Alamat                   :  BILOK PETUNG"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="50dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Hobi                      :  MAIN BOLA,PHOTOGRAFHI"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Buah paforit         :  APEL,ANGGUR,MANGGIS .DLL"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Tgl/Lahir               :  13 MARET 2002"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Tempat Tinggal   :  DUSUN BIRAK"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Kecamatan          :  SEMBALUN"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Kabupaten           :  LOMBOK TIMUR"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Nama Ibuk           :  IRNAWATI"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Nama Bapak        :  SUKANEM"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="15dp"
+                    android:text="Jalan                     :  JALAN RAYA MAYUNG PUTIH"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
